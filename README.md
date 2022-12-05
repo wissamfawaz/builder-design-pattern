@@ -4,7 +4,7 @@
   <img src="https://github.com/CharbelElBateh/builder-design-pattern/blob/main/create-pizza.png" width="350" title="Create Your Own Pizza">
 </p>
 
-# Programmer's Pizzaeria 🍕
+# Programmer's Pizzeria 🍕
 
 This project is an effective implementation of the builder design pattern as part of the COE312 course Fall 2022
 
