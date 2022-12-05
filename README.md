@@ -70,7 +70,7 @@ Here are the links 🌐:
 ## UML Diagram of the builder design pattern implemented 📊
 
 <p align="center">
-  <img src="https://github.com/CharbelElBateh/builder-design-pattern/blob/main/Programmer's%20Pizzeria%20UML%20Diagram.png" title="UML Diagram">
+  <img src="https://github.com/CharbelElBateh/builder-design-pattern/blob/main/uml-diagram.png" title="UML Diagram">
 </p>
 
 ## Database Structure 🏗️:
