@@ -10,10 +10,11 @@ This project is an effective implementation of the builder design pattern as par
 
 ### What is the builder design pattern?
 
+The builder design pattern suggests that you extract the object construction code out of its own class and move it to seperate objects called builders.
 
 ### What problem does it solve?
 
-
+The builder deisgn pattern allows you to create different flavors of an object while avoiding constructor pollution. Useful when there could be several flavors of an object. Or when there are a lot of steps involved in creation of an object.
 
 
 ## How to run?
